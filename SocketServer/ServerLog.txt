@@ -1,0 +1,47 @@
+04-Dec-21 3:29:35 PM Who
+
+04-Dec-21 3:29:35 PM Shafran Volodymyr K25 Var-6
+
+04-Dec-21 3:30:08 PM 0
+
+04-Dec-21 3:30:08 PM 
+lab1_AOC_Volodymyr_Shafran_K25.cs
+Lab1_OOP
+list_of_debts.txt
+hw6_OOP.cs
+record12_math_log.mp4
+essay_OOP.docx
+lab2_AOC_test.docx
+hw7_OOP.cs
+
+04-Dec-21 3:30:58 PM 1
+
+04-Dec-21 3:31:31 PM AOC
+
+04-Dec-21 3:31:31 PM 
+lab1_AOC_Volodymyr_Shafran_K25.cs
+lab2_AOC_test.docx
+
+04-Dec-21 3:32:03 PM asd
+
+04-Dec-21 3:32:03 PM Unknown command!
+
+04-Dec-21 3:32:34 PM 1
+
+04-Dec-21 3:32:42 PM cs
+
+04-Dec-21 3:32:42 PM 
+lab1_AOC_Volodymyr_Shafran_K25.cs
+hw6_OOP.cs
+hw7_OOP.cs
+
+04-Dec-21 3:36:10 PM 1
+
+04-Dec-21 3:36:17 PM *
+
+04-Dec-21 3:36:41 PM 1
+
+04-Dec-21 3:36:45 PM 8
+
+04-Dec-21 3:36:45 PM Not found
+
